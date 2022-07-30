@@ -1,0 +1,6 @@
+export { default as CustomModal } from './modal'
+export { default as CustomInput } from './input'
+export { default as AddItem } from './add-item'
+export { default as DeleteListButton } from './DeleteListButton'
+export { default as DeleteItem } from './modals-content/DeleteItem'
+export { default as DeleteList } from './modals-content/DeleteList'
