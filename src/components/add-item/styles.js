@@ -17,6 +17,11 @@ export const styles = StyleSheet.create({
       },
       delete: {
         color: '#fff',
-        paddingHorizontal: 10
+        width: 20,
+        height: 20,
+        backgroundColor: '#654657',
+        textAlign: 'center',
+        borderRadius: 100,
+        fontWeight: 'bold'
       },
 })
